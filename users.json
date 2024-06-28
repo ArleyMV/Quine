@@ -1,0 +1,17 @@
+{
+    "usuario": [
+        {
+            "nombre": "Arley Mantilla",
+            "documento": "1096539632",
+            "numtelefono": 3001897353,
+            "contrasena": "mantilla123",
+            "saldo": 100000,
+            "transacciones":[
+            {
+                "destino":"1096539631",
+                "valor": 10000
+            }
+        ]
+        }
+    ]
+}
