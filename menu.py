@@ -1,6 +1,9 @@
+def menu_principla():
+    print("---Menu principal---")   
+    print("1. Registrarse")
+    print("2. Iniciar sesión")
 
-
-def meenu_usuario():
+def menu_usuario():
     print("---Menu Usuario---")
     print("1. Retirar dinero")
     print("2. Enviar dinero")
