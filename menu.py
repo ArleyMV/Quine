@@ -1,3 +1,12 @@
+
+
+def meenu_usuario():
+    print("---Menu Usuario---")
+    print("1. Retirar dinero")
+    print("2. Enviar dinero")
+    print("3. Recargar saldo")
+    print("4. Perfil de usuario")
+
 def pedir_opc():
     opc = 0
     try:
