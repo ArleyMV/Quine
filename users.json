@@ -2,16 +2,20 @@
     "usuario": [
         {
             "nombre": "Arley Mantilla",
-            "documento": "1096539632",
-            "numtelefono": 3001897353,
-            "contrasena": "mantilla123",
-            "saldo": 100000,
-            "transacciones":[
-            {
-                "destino":"1096539631",
-                "valor": 10000
-            }
-        ]
+            "documento": 1096539632,
+            "numtelefono": "3001897353",
+            "contrasena": "1234",
+            "saldo": 10000.0,
+            "transacciones": [
+                {
+                    "valor": 0,
+                    "destino": 0
+                },
+                {
+                    "destino": "Recarga desde Banco electronico",
+                    "valor": 10000
+                }
+            ]
         }
     ]
 }
