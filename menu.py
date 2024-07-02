@@ -1,3 +1,4 @@
+
 def menu_principal():
     print("---------Menú principal---------")   
     print("Digita [1] para --> Registrarse")
@@ -11,7 +12,7 @@ def menu_usuario():
     print("Digita [2] para --> Enviar dinero")
     print("Digita [3] para --> Recargar tu saldo")
     print("Digita [4] para --> Ingresar al perfil de usuario")
-    print("Digita [4] para --> Cerrar sesión")
+    print("Digita [0] para --> Cerrar sesión")
     print("--------------------------------------")
 
 def menu_perfil():
