@@ -26,6 +26,17 @@ Retirar Dinero
 Transferir Dinero
 Ver historial de Transacciones
 
+EVIDENCIAS:(MULTIMEDIA)
+Diapositiva:
+https://www.canva.com/design/DAGJfqVsVlc/DmpUVzUeb9W8IRPa5PhPpQ/edit?utm_content=DAGJfqVsVlc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+
+Drive:
+https://drive.google.com/drive/folders/1sXi1aAtb_C8293Xm2yPUvfS960Erf18p?usp=sharing 
+
+ClickUp(Planteamiento de Tareas y asignaciones):
+https://app.clickup.com/9013324850/v/li/901304297339 
+
+
 Contacto
 Para cualquier duda o sugerencia, por favor contacta a quinesupport@gmail.com
 
