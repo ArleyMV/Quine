@@ -60,18 +60,22 @@
 - LinkedIn : 	www.linkedin.com/in/arley-mantilla14
 - GitHub :		https://github.com/ArleyMV
 -----
+> Angel Simanca
 - Email: Angelduvan1016@gmail.com
 - LinkedIn: [LinkedIn/AngelSimanca10016](https://www.linkedin.com/in/angel-duvan-simanca-remolina-82544120a)
 - GitHub: https://github.com/AngelSR3
 -----
+> Juliana Numa
 - Email: Andreacuadros0121@gmail.com
 - LinkedIn: https://www.linkedin.com/in/juliana-numa-8768b7317/
 - GitHub: https://github.com/Juliana0121
 -----
+> Isabella Navas
 - Email: Isanave11@gmail.com
 - LinkedIn: https://www.linkedin.com/in/isabella-navas-vega-54a000317/
 - GitHub: https://github.com/isa1126
 -----
+> Carlos Cotes
 - Email: Camayo2013@gmail.com
 - LinkedIn: https://www.linkedin.com/in/carlos-mario-cotes-almazo-96876b303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - GitHub: https://github.com/isa1126
