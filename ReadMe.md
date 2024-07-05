@@ -15,9 +15,7 @@
 - [Otros (Archivos, evidencias](#Otros)
 ---
 ## Hecho por:
-- [Arley Mantilla](#Autor)
-- [AsmvProjects](#AsmvProjects)
-
+- [Grupo Quine](#Autor)
 ---
 ## Instalación📂
 > [!TIP]
