@@ -61,7 +61,7 @@
 - Email : 		Arsamavi142@gmail.com
 - LinkedIn : 	www.linkedin.com/in/arley-mantilla14
 - GitHub :		https://github.com/ArleyMV
---
+----
 - Email: Angelduvan1016@gmail.com
 - LinkedIn: [LinkedIn/AngelSimanca10016](https://www.linkedin.com/in/angel-duvan-simanca-remolina-82544120a)
 - GitHub: https://github.com/AngelSR3
