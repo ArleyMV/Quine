@@ -9,7 +9,7 @@
 
 - [Instalación](#Instalación) 
 - [¿Como usar?](#Como_usar) 
-- [Características](#Características)
+- [Tecnologías usadas](#Tecnologías)
 - [Funcionalidad](#Funcionalidad)
 - [Autor/es](#Autor)
 - [Otros (Archivos, evidencias](#Otros)
@@ -32,11 +32,13 @@
 - Ejecuta el archivo "Main.py"
 - En el terminal, sigue las instrucciones del programa
 ---
-## Características🔎
-- main.py: Archivo principal que maneja la interacción del usuario.
-- functionsA.py: Contiene todas las funciones creadas para el manejo eficaz y seguro del aplicativo
-- datos.py: Incluye funciones para cargar y guardar datos desde y hacia un archivo JSON.
-- users.json: Archivo de almacenamiento que contiene la información de los usuarios, sus balances y transacciones.
+## Tecnologías📱
+- Python
+- ClickUp
+- Zoom
+- WhatsApp
+- Canva
+- PhotoShop
 
 ---
 ## Funcionalidad💭
@@ -79,6 +81,3 @@
 - Email: Camayo2013@gmail.com
 - LinkedIn: https://www.linkedin.com/in/carlos-mario-cotes-almazo-96876b303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - GitHub: https://github.com/CarlosCotes
-
-
-  
